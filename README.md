@@ -1,4 +1,4 @@
-![](https://github.com/AshutoshG1/AshutoshG1/blob/main/github%20banner.png)
+
 <h1 align="center">Hi 👋, I'm Ashutosh Gautam</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
