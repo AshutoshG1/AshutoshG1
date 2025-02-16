@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **codewithashutosh247@gmail.com**
 
-- ⚡ Fun fact **I think I not funny**
+- ⚡ Fun fact **Writing code is easy, but debugging? That’s where the fun begins!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
